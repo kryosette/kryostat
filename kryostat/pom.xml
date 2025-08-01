@@ -80,6 +80,10 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.kryosette</groupId>
+			<artifactId>storage</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
