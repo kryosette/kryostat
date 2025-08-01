@@ -17,10 +17,10 @@ import org.springframework.context.annotation.Import;
 				StorageConfig.class
 		}
 ))
-public class KryostatApplication {
+public class KryostatDataApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KryostatCommonApplication.class, args);
+		SpringApplication.run(KryostatDataApplication.class, args);
 	}
 
 }
