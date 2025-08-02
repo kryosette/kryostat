@@ -17,6 +17,7 @@
 #include <linux/if_packet.h>
 #include <net/ethernet.h>
 #include <net/if.h>
+#include <liburing.h>
 
 extern struct perf_event_attr global_attr;
 
