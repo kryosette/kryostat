@@ -12,9 +12,3 @@ static int setup_perf_counter()
         .size = sizeof(global_attr)};
     return syscall(SYS_perf_event_open, &global_attr, 0, -1, -1, 0); // default
 }
-
-/*
-u_char is a type alias, commonly found in C and C++ programming,
-that refers to unsigned char.
-*/
-void packet_handler(u_char *user, const struct, const u_char *bytes)
