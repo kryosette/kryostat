@@ -22,6 +22,11 @@ extern struct perf_event_attr global_attr;
 
 void packet_handler(u_char *user, const struct pcap_pkthdr *h, const u_char *bytes);
 
+/*
+unsigned char iph_ihl : 4, iph_ver : 4; ↙️
+These are bit fields in C, which allow you to control exactly
+how many bits are allocated for each field in the structure.
+*/
 // The structure of the Ethernet header
 struct ethheader
 {
