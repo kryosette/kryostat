@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/alerts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_collector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/alerts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/data_collector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/reports/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/kryostat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kryostat/storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reports/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/storage/src/main/java" charset="UTF-8" />
   </component>
 </project>

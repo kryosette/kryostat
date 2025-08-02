@@ -7,10 +7,19 @@
         <option value="$PROJECT_DIR$/kryostat/pom.xml" />
         <option value="$PROJECT_DIR$/kryostat/data_collector/pom.xml" />
         <option value="$PROJECT_DIR$/kryostat/reports/pom.xml" />
+        <option value="$PROJECT_DIR$/kryostat/core/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/alerts/pom.xml" />
+        <option value="$PROJECT_DIR$/core/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/alerts/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="openjdk-24" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="corretto-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
