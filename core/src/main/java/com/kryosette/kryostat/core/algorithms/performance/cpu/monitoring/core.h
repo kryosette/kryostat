@@ -2,12 +2,6 @@
 #define CODE_H
 
 #include <stdio.h>
-#include <pcap.h>
-#include <linux/perf_event.h>
-#include <sys/syscall.h>
-#include <linux/hw_breakpoint.h>
-#include <unistd.h>
-#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
@@ -17,6 +11,7 @@
 #include <linux/if_packet.h>
 #include <net/ethernet.h>
 #include <net/if.h>
+#include <errno.h>
 #include <liburing.h>
 
 extern struct perf_event_attr global_attr;
